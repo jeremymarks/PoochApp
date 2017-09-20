@@ -55,7 +55,6 @@ export default class PoochApp extends Component {
 //       />;
 // }}
 
-// Jesse helped me
 
 
 
