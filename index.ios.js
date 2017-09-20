@@ -40,7 +40,7 @@ export default class PoochApp extends Component {
   // }
   
   render() {
-     return <LoginStack />  
+     return <Tabs />  
     // return <LoginStack />  
   }
 }
