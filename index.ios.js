@@ -27,7 +27,7 @@ import * as firebase from 'firebase';
 const firebaseConfig = {
   apiKey: "AIzaSyDGiMDyhaPiCT6q44wM5NNDImt3AeFSTI8",
   authDomain: "poochapp-1505392754856.firebaseapp.com",
-  databaseURL: "https ://poochapp-1505392754856.firebaseio.com",
+  databaseURL: "https://poochapp-1505392754856.firebaseio.com",
   projectId: "poochapp-1505392754856",
   storageBucket: "poochapp-1505392754856.appspot.com",
   messagingSenderId: "663798218625"
